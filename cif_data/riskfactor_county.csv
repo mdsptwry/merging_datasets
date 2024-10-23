@@ -1,0 +1,3 @@
+FIPS,County,State,Met_Breast_Screen,Met_Cervical_Screen,Met_Colon_Screen,Currently_Smoke,BMI_Obese,Physically_Inactive,Binge_Drinking,Sleep_Debt,Cancer_Prevalence,Bad_Health,Poor_Physical,Poor_Mental,Depression,Diabetes_DX,High_BP,BP_Medicine,CHD,Had_Stroke,Kidney_Disease,Asthma,COPD,No_Teeth,Recent_Checkup,Recent_Dentist
+36059,Nassau County,New York,75.3,86.1,75.9,10.8,27.2,23.2,15.2,33.4,7.1,11.9,9.1,12.2,14.9,10.4,29.9,79.8,5.4,2.7,2.9,9.3,5.2,6.9,80.0,71.9
+36103,Suffolk County,New York,74.0,86.9,72.4,12.2,29.7,25.0,14.8,33.6,7.3,13.4,9.5,13.2,18.3,10.4,32.6,79.4,6.0,2.8,3.0,9.9,6.0,8.5,77.4,68.9
